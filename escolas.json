@@ -1,0 +1,34 @@
+{
+	"enderecos" : 
+	[
+		{
+			"Nome": "EMEI AFONSINO VILHENA DA SILVA",
+			"End": "Rua Santo Ivo, nº 338 – Cidade Salvador – CEP: 12.312-190",
+			"Telefone": "3952-9594",
+			"Email": "emeicidadesalvador@gmail.com",
+			"Idade Máxima": 6,
+			"lat": -23.301484,
+			"long": -45.933227
+		},
+			
+		{
+			"Nome": "EMEI ALTO ESPERANÇA II / EMEI NOVA JACAREÍ",
+			"End": "Av. Joaquim  Machado de Lima, nº 1.115 – Nova Esperança – CEP: 12324-325",
+			"Telefone": "3952-9594",
+			"Email": "emeialtoesperancaII@hotmail.com",
+			"Idade Máxima": 6,
+			"lat": -23.307388,
+			"long": -46.008098
+		},
+	
+		{
+			"Nome": "EMEI ANTONIO JOAQUIM MESQUITA",
+			"End": "Rua José Maria Salgado, nº 113 – Parque Meia Lua – CEP: 12.335-220",
+			"Telefone": "",
+			"Email": "3953-7811",
+			"Idade Máxima": 6,
+			"lat": -23.259512,
+			"long": -45.967759
+		}
+	]
+}
