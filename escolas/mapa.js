@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).write(function(){
 		
 			var map;
 			var centerPos = new google.maps.LatLng(-23.300261, -45.965545);
