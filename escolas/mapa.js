@@ -1,4 +1,6 @@
-$(document).write(function(){
+//$(document).ready(
+			function initialize()
+			{
 		
 			var map;
 			var centerPos = new google.maps.LatLng(-23.300261, -45.965545);
@@ -20,5 +22,6 @@ $(document).write(function(){
 					
 					
 					})
-			});				
-		});
+				});				
+			}
+			initialize();
