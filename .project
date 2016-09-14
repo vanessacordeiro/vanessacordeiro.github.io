@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>escolas/img/marcador.png</name>
+			<type>1</type>
+			<location>C:/Users/VANESSACORDEIROGONCA/Desktop/marcador.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
