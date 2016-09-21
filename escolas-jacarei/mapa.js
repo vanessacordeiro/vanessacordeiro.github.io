@@ -1,7 +1,7 @@
 function initialize() 
 {
 				
-	$.getJSON("https://api.myjson.com/bins/1ozje",function(data) 
+	$.getJSON("https://api.myjson.com/bins/5ab0m",function(data) 
 	{
 					
 					var values = [];
