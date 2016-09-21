@@ -2,589 +2,589 @@
 	"enderecos" : 
 	[
 		{
-			"Nome": "EMEI AFONSINO VILHENA DA SILVA",
-			"End": "Rua Santo Ivo, nº 338 – Cidade Salvador – CEP: 12.312-190",
-			"Telefone": "3952-9594",
-			"Email": "emeicidadesalvador@gmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI AFONSINO VILHENA DA SILVA",
+			"end": "Rua Santo Ivo, nº 338 – Cidade Salvador – CEP: 12.312-190",
+			"telefone": "3952-9594",
+			"email": "emeicidadesalvador@gmail.com",
+			"idadeMax": 6,
 			"lat": -23.301484,
 			"long": -45.933227
 		},
 			
 		{
-			"Nome": "EMEI ALTO ESPERANÇA II / EMEI NOVA JACAREÍ",
-			"End": "Av. Joaquim  Machado de Lima, nº 1.115 – Nova Esperança – CEP: 12324-325",
-			"Telefone": "3952-9594",
-			"Email": "emeialtoesperancaII@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI ALTO ESPERANÇA II / EMEI NOVA JACAREÍ",
+			"end": "Av. Joaquim  Machado de Lima, nº 1.115 – Nova Esperança – CEP: 12324-325",
+			"telefone": "3952-9594",
+			"email": "emeialtoesperancaII@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.307388,
 			"long": -46.008098
 		},
 	
 		{
-			"Nome": "EMEI ANTONIO JOAQUIM MESQUITA",
-			"End": "Rua José Maria Salgado, nº 113 – Parque Meia Lua – CEP: 12.335-220",
-			"Telefone": "3953-7811",
-			"Idade Máxima": 6,
+			"nome": "EMEI ANTONIO JOAQUIM MESQUITA",
+			"end": "Rua José Maria Salgado, nº 113 – Parque Meia Lua – CEP: 12.335-220",
+			"telefone": "3953-7811",
+			"idadeMax": 6,
 			"lat": -23.259512,
 			"long": -45.967759
 		},
 		
 		{
-			"Nome": "EMEI CLÉLIA DE MORAES AREÃO",
-			"End": "Rua Luis de Moura, 30 – Cidade Nova Jacareí – CEP 12.325.180",
-			"Telefone": "3956.5300",
-			"Email": "emeialtoesperancaii@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI CLÉLIA DE MORAES AREÃO",
+			"end": "Rua Luis de Moura, 30 – Cidade Nova Jacareí – CEP 12.325.180",
+			"telefone": "3956.5300",
+			"email": "emeialtoesperancaii@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.305361,
 			"long":  -46.016723
 		},
 		
 		{
-			"Nome": "EMEI COMENDADOR ANTONIO LOUREIRO CARDOSO",
-			"End": "Rua Engenheiro Flávio da Silva Freitas, nº 870 – Igarapés – CEP: 12.330-170",
-			"Telefone": "3956-3570",
-			"Email": "emeicomendador@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI COMendADOR ANTONIO LOUREIRO CARDOSO",
+			"end": "Rua Engenheiro Flávio da Silva Freitas, nº 870 – Igarapés – CEP: 12.330-170",
+			"telefone": "3956-3570",
+			"email": "emeicomendador@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.297292,
 			"long": -46.036203
 		},
 	
 		{
-			"Nome": "EMEI DRª ZILDA ARNS",
-			"End": "Rua Dante Siani, nº 1.228 – Jardim Santa Marina – CEP: 12.312-420",
-			"Telefone": "3953- 8212",
-			"Email": "emeisantamarina@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI DRª ZILDA ARNS",
+			"end": "Rua Dante Siani, nº 1.228 – Jardim Santa Marina – CEP: 12.312-420",
+			"telefone": "3953- 8212",
+			"email": "emeisantamarina@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.294679,
 			"long": -45.928226
 		},
 	
 		{
-			"Nome": "EMEI EDUCAMAIS ESPERANÇA",
-			"End": "Avenida Lucas Nogueira Garcez, nº 395 – Jardim Esperança – CEP: 12.324.000",
-			"Idade Máxima": 6,
+			"nome": "EMEI EDUCAMAIS ESPERANÇA",
+			"end": "Avenida Lucas Nogueira Garcez, nº 395 – Jardim Esperança – CEP: 12.324.000",
+			"idadeMax": 6,
 			"lat": -23.310686,
 			"long": -45.998407
 		},
 		
 		{
-			"Nome": "EMEI JARDIM LUIZA (Vinc. a EMEF DECIO MOREIRA)",
-			"End": "Mesma equipe da EMEF Décio Moreira",
-			"Idade Máxima": 6,
+			"nome": "EMEI JARDIM LUIZA (Vinc. a EMEF DECIO MOREIRA)",
+			"end": "Mesma equipe da EMEF Décio Moreira",
+			"idadeMax": 6,
 			"Obs:": "Não aparece no Maps"
 		},
 		
 		{
-			"Nome": "EMEI JARDIM PARAÍBA – (Vinc. a EMEF ROBERTO DONIZETE)",
-			"End": "Rua Paraibuna, nº 75 – Jardim Paraíba – CEP: 12.327-657",
-			"Telefone": "3951-0446",
-			"Idade Máxima": 6,
+			"nome": "EMEI JARDIM PARAÍBA – (Vinc. a EMEF ROBERTO DONIZETE)",
+			"end": "Rua Paraibuna, nº 75 – Jardim Paraíba – CEP: 12.327-657",
+			"telefone": "3951-0446",
+			"idadeMax": 6,
 			"lat": -23.295747,
 			"long": -45.979583
 		},
 
 		{
-			"Nome": "EMEI JARDIM PARAÍSO",
-			"End": "Rua João de Brito, nº 390 – Jardim Paraíso – CEP: 12.316-000",
-			"Telefone": "3953-4125",
-			"Email": "emeijdparaiso@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI JARDIM PARAÍSO",
+			"end": "Rua João de Brito, nº 390 – Jardim Paraíso – CEP: 12.316-000",
+			"telefone": "3953-4125",
+			"email": "emeijdparaiso@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.318385,
 			"long": -45.937446
 		},
 
 		{
-			"Nome": "EMEI E CRECHE MORRO DO CRISTO (Vinc. a Creche Morro do Cristo)",
-			"End": "Mesma equipe a Creche Morro do Cristo",
-			"Idade Máxima": 6,
+			"nome": "EMEI E CRECHE MORRO DO CRISTO (Vinc. a Creche Morro do Cristo)",
+			"end": "Mesma equipe a Creche Morro do Cristo",
+			"idadeMax": 6,
 			"Obs:": "Não aparece no Maps"
 		},		
 
 		{
-			"Nome": "EMEI PARATEÍ DE BAIXO (Vinc. a EMEF Ayrton Soares do Nascimento)",
-			"End": "Mesma equipe da EMEF Ayrton Soares do Nascimento",
-			"Idade Máxima": 6,
+			"nome": "EMEI PARATEÍ DE BAIXO (Vinc. a EMEF Ayrton Soares do Nascimento)",
+			"end": "Mesma equipe da EMEF Ayrton Soares do Nascimento",
+			"idadeMax": 6,
 			"Obs:": "Não aparece no Maps"
 		},
 		
 		{
-			"Nome": "EMEI PAULO FREIRE",
-			"End": "Rua Panorama, nº 151 – Jardim Panorama CEP: 12.323.180",
-			"Telefone": "3951-5939",
-			"Email": "emeipanorama@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI PAULO FREIRE",
+			"end": "Rua Panorama, nº 151 – Jardim Panorama CEP: 12.323.180",
+			"telefone": "3951-5939",
+			"email": "emeipanorama@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.319158,
 			"long": -45.981120
 		},
 
 		{
-			"Nome": "EMEI “PAULO RENATO SOUZA”",
-			"End": "Rua Alfredo Sedalyrio de Moraes, nº 130 – Conj. São Benedito – CEP: 12.310.502",
-			"Telefone": "3952-7780",
-			"Email": "emaicecap@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI “PAULO RENATO SOUZA”",
+			"end": "Rua Alfredo Sedalyrio de Moraes, nº 130 – Conj. São Benedito – CEP: 12.310.502",
+			"telefone": "3952-7780",
+			"email": "emaicecap@hotmail.com",
+			"idadeMax": 6,
 			"Obs:": "Não aparece no Maps"
 		},
 
 		{
-			"Nome": "EMEI PROF. ANTONIO LELLIS VIEIRA",
-			"End": "Rua Dr. João Victor Lamanna, nº 22 – Parque Califórnia – CEP: 12.311-000",
-			"Telefone": "3958 -1182",
-			"Email": "emeiparquecalifornia@gmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROF. ANTONIO LELLIS VIEIRA",
+			"end": "Rua Dr. João Victor Lamanna, nº 22 – Parque Califórnia – CEP: 12.311-000",
+			"telefone": "3958 -1182",
+			"email": "emeiparquecalifornia@gmail.com",
+			"idadeMax": 6,
 			"lat": -23.280602,
 			"long": -45.943861
 		},
 
 		{
-			"Nome": "EMEI PROF. JOÃO LINO FILHO",
-			"End": "Av. Suzana de Castro Ramos, nº 826 – Jardim do Vale – CEP: 12.319-480",
-			"Telefone": "3953-5259",
-			"Email": "emeijoaolino@bol.com.br",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROF. JOÃO LINO FILHO",
+			"end": "Av. Suzana de Castro Ramos, nº 826 – Jardim do Vale – CEP: 12.319-480",
+			"telefone": "3953-5259",
+			"email": "emeijoaolino@bol.com.br",
+			"idadeMax": 6,
 			"lat": -23.322807,
 			"long": -45.970934
 		},
 
 		{
-			"Nome": "EMEI PROF. MÁRCIO APARECIDO DE MORAES",
-			"End": "Rua Santa Filomena, nº 89 – Vila São Judas Tadeu – CEP: 12.324-700 - Esperança",
-			"Telefone": "3956-3599",
-			"Email": "emei.marcio.moraes@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROF. MÁRCIO APARECIDO DE MORAES",
+			"end": "Rua Santa Filomena, nº 89 – Vila São Judas Tadeu – CEP: 12.324-700 - Esperança",
+			"telefone": "3956-3599",
+			"email": "emei.marcio.moraes@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.309484,
 			"long": -46.007479
 		},
 
 		{
-			"Nome": "EMEI PROFª MARIA ALICE MARCONDES GOMES PEREIRA",
-			"End": "Rua das Eulálias, nº 105 – Jardim Primavera – CEP: 12.306-320",
-			"Telefone": "3958-1925",
-			"Email": "mariaalicemarcondes@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROFª MARIA ALICE MARCONDES GOMES PEREIRA",
+			"end": "Rua das Eulálias, nº 105 – Jardim Primavera – CEP: 12.306-320",
+			"telefone": "3958-1925",
+			"email": "mariaalicemarcondes@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.284561,
 			"long": -45.951483
 		},
 
 		{
-			"Nome": "EMEI PROFª MARIA AMÉLIA MERCADANTE TURCI",
-			"End": "Rua dos Ibiscos, nº 580 – Parque Santo Antonio – CEP: 12.309-410",
-			"Telefone": "3953-5197",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROFª MARIA AMÉLIA MERCADANTE TURCI",
+			"end": "Rua dos Ibiscos, nº 580 – Parque Santo Antonio – CEP: 12.309-410",
+			"telefone": "3953-5197",
+			"idadeMax": 6,
 			"lat": -23.312611,
 			"long": -45.957198
 		},
 
 		{
-			"Nome": "EMEI PROFª MARIA JOSÉ DE CARVALHO FERREIRA",
-			"End": "Av. Orval Salvador, nº 543 – Jardim Santa Maria – CEP: 12.328-470",
-			"Telefone": "3953-5252",
-			"Email": "emeiprofmariajose@yahoo.com.br",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROFª MARIA JOSÉ DE CARVALHO FERREIRA",
+			"end": "Av. Orval Salvador, nº 543 – Jardim Santa Maria – CEP: 12.328-470",
+			"telefone": "3953-5252",
+			"email": "emeiprofmariajose@yahoo.com.br",
+			"idadeMax": 6,
 			"lat": -23.289257,
 			"long": -45.960670
 		},
 
 		{
-			"Nome": "EMEI PROFª MARIA JOSÉ NEVES MARINO",
-			"End": "Rua Nenê Namura Abib, nº 57 – Jardim São Paulo – CEP: 12.322-210",
-			"Telefone": "3956-3567",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROFª MARIA JOSÉ NEVES MARINO",
+			"end": "Rua Nenê Namura Abib, nº 57 – Jardim São Paulo – CEP: 12.322-210",
+			"telefone": "3956-3567",
+			"idadeMax": 6,
 			"lat": -23.311341,
 			"long": -45.985813
 		},
 
 		{
-			"Nome": "EMEI PROF. OSWALDO PIRIS DE OLIVEIRA (Vinc. a CRECHE CORNÉLIO)",
-			"Email": "emeijardimemilia@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI PROF. OSWALDO PIRIS DE OLIVEIRA (Vinc. a CRECHE CORNÉLIO)",
+			"email": "emeijardimemilia@hotmail.com",
+			"idadeMax": 6,
 			"Obs": "Não tem no Maps"
 		},
 
 		{
-			"Nome": "EMEI “PROFª VICENTINA DAS DORES QUEIROZ”",
-			"End": "Rua São Jerônimo, nº 1100 – Jardim das Indústrias – CEP: 12.310-000",
-			"Telefone": "3951-2599",
-			"Email": "emeiprofvicentina@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI “PROFª VICENTINA DAS DORES QUEIROZ”",
+			"end": "Rua São Jerônimo, nº 1100 – Jardim das Indústrias – CEP: 12.310-000",
+			"telefone": "3951-2599",
+			"email": "emeiprofvicentina@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.295629,
 			"long": -45.950185
 		}, 
 
 		{
-			"Nome": "EMEI RIO COMPRIDO",
-			"End": "Rua Sergipe, nº 154 – Rio Comprido – CEP: 12302-041",
-			"Telefone": "3958-6194",
-			"Email": "emeiriocomprido@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI RIO COMPRIDO",
+			"end": "Rua Sergipe, nº 154 – Rio Comprido – CEP: 12302-041",
+			"telefone": "3958-6194",
+			"email": "emeiriocomprido@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.260564,
 			"long": -45.932623
 		},
 		
 		{
-			"Nome": "EMEI SÃO GABRIEL (Vinc. a EMEF José Eboli - Mesma Equipe da EMEF José Eboli)",
-			"End": "Rod. General Euryale de Jesus Zerbine, nº 1023 - CEP 12.340.010 - São Silvestre",
-			"Telefone": "3957-1222",
-			"Email": "joseebolidelima@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI SÃO GABRIEL (Vinc. a EMEF José Eboli - Mesma Equipe da EMEF José Eboli)",
+			"end": "Rod. General Euryale de Jesus Zerbine, nº 1023 - CEP 12.340.010 - São Silvestre",
+			"telefone": "3957-1222",
+			"email": "joseebolidelima@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.604813,
 			"long": -46.494941
 		},
 
 		{
-			"Nome": "EMEI SANTO ANTONIO DA BOA VISTA",
-			"End": "Rua dos Jacintos, nº 419 – Santo Antonio da Boa Vista – CEP: 12.315-630",
-			"Telefone": "3953-5257",
-			"Email": "emeiboavista@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI SANTO ANTONIO DA BOA VISTA",
+			"end": "Rua dos Jacintos, nº 419 – Santo Antonio da Boa Vista – CEP: 12.315-630",
+			"telefone": "3953-5257",
+			"email": "emeiboavista@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.319343,
 			"long": -45.927997
 		},
 
 		{
-			"Nome": "EMEI SÃO SILVESTRE – (Vinc. a Creche São Silvestre - Mesma Equipe da Creche São Silvestre)",
-			"End": "Rua Paulo Yazzetti, nº64 – São Silvestre – CEP: 12.321.200",
-			"Telefone": "3957-1575",
-			"Email": "emei.saosivestre@yahoo.com.br",
-			"Idade Máxima": 6,
+			"nome": "EMEI SÃO SILVESTRE – (Vinc. a Creche São Silvestre - Mesma Equipe da Creche São Silvestre)",
+			"end": "Rua Paulo Yazzetti, nº64 – São Silvestre – CEP: 12.321.200",
+			"telefone": "3957-1575",
+			"email": "emei.saosivestre@yahoo.com.br",
+			"idadeMax": 6,
 			"lat": -23.363657,
 			"long": -46.016224
 		},
 
 		{
-			"Nome": "EMEI THIAGO SILVA SANTOS",
-			"End": "Rua Vitória, nº 400 – Vila Formosa – CEP: 12.307-660",
-			"Telefone": "3951-0807",
-			"Email": "emeithiagosilvasantos@hotmail.com",
-			"Idade Máxima": 6,
+			"nome": "EMEI THIAGO SILVA SANTOS",
+			"end": "Rua Vitória, nº 400 – Vila Formosa – CEP: 12.307-660",
+			"telefone": "3951-0807",
+			"email": "emeithiagosilvasantos@hotmail.com",
+			"idadeMax": 6,
 			"lat": -23.300944,
 			"long": -45.953870
 		},
 
 		{
-			"Nome": "EMEI VARADOURO (Vinc. a EMEF JORGE VIEIRA)",
-			"End": "Mesma equipe da EMEF JORGE VIEIRA",
-			"Idade Máxima": 6,
+			"nome": "EMEI VARADOURO (Vinc. a EMEF JORGE VIEIRA)",
+			"end": "Mesma equipe da EMEF JORGE VIEIRA",
+			"idadeMax": 6,
 			"Obs": "Não tem no Maps"
 		},
 
 		{
-			"Nome": "EMEI VERANEIO IJAL (Vinc. a EMEF PRESBÍTERO - Mesma equipe da EMEF Presbítero)",
-			"End": "Rua Paulo Freire, nº 302 – Veraneio Ijal",
-			"Idade Máxima": 6,
+			"nome": "EMEI VERANEIO IJAL (Vinc. a EMEF PRESBÍTERO - Mesma equipe da EMEF Presbítero)",
+			"end": "Rua Paulo Freire, nº 302 – Veraneio Ijal",
+			"idadeMax": 6,
 			"lat": -23.307009,
 			"long": -46.039124
 		},
 
 		{
-			"Nome": "EMEIF JEAN JACQUES ROUSSEAU",
-			"End": "Rua Joaquim Simões Pires, nº 18 – Bandeira Branca – CEP 12.323-620",
-			"Telefone": "3953-8458",
-			"Email": "emeibandeirabranca@hotmail.com",
-			"Idade Máxima": 10,
+			"nome": "EMEIF JEAN JACQUES ROUSSEAU",
+			"end": "Rua Joaquim Simões Pires, nº 18 – Bandeira Branca – CEP 12.323-620",
+			"telefone": "3953-8458",
+			"email": "emeibandeirabranca@hotmail.com",
+			"idadeMax": 10,
 			"lat": -23.331380,
 			"long": -45.997657
 		},
 
 		{
-			"Nome": "EMEIF JORGE VIEIRA DA SILVA",
-			"End": "Estrada do Varadouro, nº 87 – Varadouro – (Ref. – Fazenda Itamirim) – CEP: 12.315-020",
-			"Email": "emefjorgevieira@hotmail.com",
-			"Idade Máxima": 10,
+			"nome": "EMEIF JORGE VIEIRA DA SILVA",
+			"end": "Estrada do Varadouro, nº 87 – Varadouro – (Ref. – Fazenda Itamirim) – CEP: 12.315-020",
+			"email": "emefjorgevieira@hotmail.com",
+			"idadeMax": 10,
 			"lat": -23.309921,
 			"long": -45.895237
 		},
 
 		{
-			"Nome": "EMEIF PROF. AYRTON SOARES DO NASCIMENTO - Vinculada EMEI Parateí de Baixo",
-			"End": "Estrada Kaminaga, nº 700 – Rod. D. Pedro I – Km 4 – Parateí de Baixo – CEP.: 12.332-000",
-			"Telefone": "3956-5257",
-			"Email": "emefayrtonsoares@hotmail.com",
-			"Idade Máxima": 10,
+			"nome": "EMEIF PROF. AYRTON SOARES DO NASCIMENTO - Vinculada EMEI Parateí de Baixo",
+			"end": "Estrada Kaminaga, nº 700 – Rod. D. Pedro I – Km 4 – Parateí de Baixo – CEP.: 12.332-000",
+			"telefone": "3956-5257",
+			"email": "emefayrtonsoares@hotmail.com",
+			"idadeMax": 10,
 			"lat": -23.279718,
 			"long": -46.042029
 		},
 
 		{
-			"Nome": "EMEIF PROFª OTTÍLIA AROUCA",
-			"End": "Estrada Municipal Biagino Chieff, nº 850 - Rio Abaixo – CEP: 12.334-480",
-			"Telefone": "3953.9490",
-			"Email": "emef.ottilia_arouca@hotmail.com",
-			"Idade Máxima": 10,
+			"nome": "EMEIF PROFª OTTÍLIA AROUCA",
+			"end": "Estrada Municipal Biagino Chieff, nº 850 - Rio Abaixo – CEP: 12.334-480",
+			"telefone": "3953.9490",
+			"email": "emef.ottilia_arouca@hotmail.com",
+			"idadeMax": 10,
 			"lat": -23.271419,
 			"long": -45.986713
 		},
 
 		{
-			"Nome": "EMEIF ROBERTO DONIZETE DE SOUZA (Vinculadas: EMEI Pagador Andrade / EMEI Jardim Paraíba)",
-			"End": "Rua Montana, nº 317 – Jardim Flórida – CEP: 12.321-660",
-			"Telefone": "3951-0456",
-			"Email": "emeirobertodonizete@gmail.com",
-			"Idade Máxima": 10,
+			"nome": "EMEIF ROBERTO DONIZETE DE SOUZA (Vinculadas: EMEI Pagador Andrade / EMEI Jardim Paraíba)",
+			"end": "Rua Montana, nº 317 – Jardim Flórida – CEP: 12.321-660",
+			"telefone": "3951-0456",
+			"email": "emeirobertodonizete@gmail.com",
+			"idadeMax": 10,
 			"lat": -23.298269,
 			"long": -45.982907
 		},
 
 		{
-			"Nome": "EMEIF PROF. TARCÍSIO FRANCISCO BARBOSA",
-			"End": "Rua dos Professores, nº 120 – Conjunto 1º de Maio – CEP: 12332-640",
-			"Telefone": "3956-3170",
-			"Email": "emefproftarcisiofb@bol.com.br",
-			"Idade Máxima": 10,
+			"nome": "EMEIF PROF. TARCÍSIO FRANCISCO BARBOSA",
+			"end": "Rua dos Professores, nº 120 – Conjunto 1º de Maio – CEP: 12332-640",
+			"telefone": "3956-3170",
+			"email": "emefproftarcisiofb@bol.com.br",
+			"idadeMax": 10,
 			"lat": -23.288731,
 			"long": -46.034339
 		},
 
 		{
-			"Nome": "EMEF BARÃO DE JACAREÍ",
-			"End": "Praça Independência, nº 369 – São João – CEP: 12.322-570",
-			"Telefone": "3954-2310",
-			"Email": "emefbaraodejacarei@gmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF BARÃO DE JACAREÍ",
+			"end": "Praça Independência, nº 369 – São João – CEP: 12.322-570",
+			"telefone": "3954-2310",
+			"email": "emefbaraodejacarei@gmail.com",
+			"idadeMax": 14,
 			"lat": -23.309302,
 			"long": -45.978479
 		},
 
 		{
-			"Nome": "EMEF EDUCAMAIS ESPERANÇA",
-			"End": "Avenida Lucas Nogueira Garcez, nº 395 – Jardim Esperança – CEP: 12.324.000",
-			"Idade Máxima": 14,
+			"nome": "EMEF EDUCAMAIS ESPERANÇA",
+			"end": "Avenida Lucas Nogueira Garcez, nº 395 – Jardim Esperança – CEP: 12.324.000",
+			"idadeMax": 14,
 			"lat": -23.310699,
 			"long": -45.998406
 		},
 
 		{
-			"Nome": "EMEF PROFª ADÉLIA MONTEIRO",
-			"End": "Estrada Municipal Eugênio Bicudo, nº 35 – Campo Grande",
-			"Telefone": "3953-4607",
-			"Email": "monteiroadelia35@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª ADÉLIA MONTEIRO",
+			"end": "Estrada Municipal Eugênio Bicudo, nº 35 – Campo Grande",
+			"telefone": "3953-4607",
+			"email": "monteiroadelia35@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.320409,
 			"long": -45.966840
 		},
 	
 		{
-			"Nome": "EMEF PROF. ALUÍZIO DO AMARAL CAMPOS",
-			"End": "Rua Oswaldo Turci, nº 955 – Bandeira Branca I – CEP: 12.323-470",
-			"Telefone": "3953-4105 ",
-			"Email": "aluizioamaralcampos@ig.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. ALUÍZIO DO AMARAL CAMPOS",
+			"end": "Rua Oswaldo Turci, nº 955 – Bandeira Branca I – CEP: 12.323-470",
+			"telefone": "3953-4105 ",
+			"email": "aluizioamaralcampos@ig.com.br",
+			"idadeMax": 14,
 			"lat": -23.328803,
 			"long": -45.997042
 		},
 
 		{
-			"Nome": "EMEF PROF. ARISTEU JOSÉ TURCI – Antiga EMEF Igarapés",
-			"End": "Rua Engenheiro Flávio da Silva Freitas, nº300 - CEP 12.330-170 – Igarapés",
-			"Telefone": "3961-2382",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. ARISTEU JOSÉ TURCI – Antiga EMEF Igarapés",
+			"end": "Rua Engenheiro Flávio da Silva Freitas, nº300 - CEP 12.330-170 – Igarapés",
+			"telefone": "3961-2382",
+			"idadeMax": 14,
 			"Obs": "Não tem no Maps"
 		},
 
 		{
-			"Nome": "EMEF PROFª BEATRIZ JUNQUEIRA DA SILVEIRA SANTOS",
-			"End": "Rua Alcides Arnaldo Taino, nº 1240 – Parque Meia Lua – CEP: 12.335-190",
-			"Telefone": "3952-9144",
-			"Email": "emefbeatriz@gmail.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª BEATRIZ JUNQUEIRA DA SILVEIRA SANTOS",
+			"end": "Rua Alcides Arnaldo Taino, nº 1240 – Parque Meia Lua – CEP: 12.335-190",
+			"telefone": "3952-9144",
+			"email": "emefbeatriz@gmail.com.br",
+			"idadeMax": 14,
 			"lat": -23.259602,
 			"long": -45.969012
 		},
 
 		{
-			"Nome": "EMEF PROFª. CÉLIA GUEDES",
-			"End": "Rua dos Amarantos, nº 313 – Jardim Primavera – CEP: 12.306-520",
-			"Telefone": "3958-2996",
-			"Email": "emefceliaguedes@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª. CÉLIA GUEDES",
+			"end": "Rua dos Amarantos, nº 313 – Jardim Primavera – CEP: 12.306-520",
+			"telefone": "3958-2996",
+			"email": "emefceliaguedes@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.281326,
 			"long": -45.949855
 		},
 
 		{
-			"Nome": "EMEF PROFª CLAUDIA MARIA GASPAR QUEIRÓZ DO PRADO",
-			"End": "Rua Junqueira Freire, nº 140 – Jardim Santa Marina – CEP: 12.312-540",
-			"Telefone": "3962-5661",
-			"Email": "escolaclaudiagaspar@ig.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª CLAUDIA MARIA GASPAR QUEIRÓZ DO PRADO",
+			"end": "Rua Junqueira Freire, nº 140 – Jardim Santa Marina – CEP: 12.312-540",
+			"telefone": "3962-5661",
+			"email": "escolaclaudiagaspar@ig.com.br",
+			"idadeMax": 14,
 			"lat": -23.296266,
 			"long": -45.928049
 		},
 
 		{
-			"Nome": "EMEF PROFª. CONCEIÇÃO APª MAGALHÃES SILVA",
-			"End": "Rua Expedicionário Lourenço Nogueira, nº 211 – Jardim Paraíso – CEP: 12.300-000",
-			"Telefone": "3951-9689",
-			"Email": "emefconceicao@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª. CONCEIÇÃO APª MAGALHÃES SILVA",
+			"end": "Rua Expedicionário Lourenço Nogueira, nº 211 – Jardim Paraíso – CEP: 12.300-000",
+			"telefone": "3951-9689",
+			"email": "emefconceicao@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.316702,
 			"long": -45.939675
 		},
 
 		{
-			"Nome": "EMEF PROF. DÉCIO MOREIRA",
-			"End": "Rua Iracema, nº 148 – Jardim Luiza – CEP: 12.305-230",
-			"Telefone": "3958-1392",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. DÉCIO MOREIRA",
+			"end": "Rua Iracema, nº 148 – Jardim Luiza – CEP: 12.305-230",
+			"telefone": "3958-1392",
+			"idadeMax": 14,
 			"lat": -23.273892,
 			"long": -45.948899
 		},
 
 		{
-			"Nome": "EMEF PROFª. DELLY GASPAR DOS SANTOS",
-			"End": "Avenida Papa João XXIII, nº 95 – Conjunto São Benedito – CEP: 12.310-090",
-			"Telefone": "3952-9997",
-			"Email": "emefdellygaspar@yahoo.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª. DELLY GASPAR DOS SANTOS",
+			"end": "Avenida Papa João XXIII, nº 95 – Conjunto São Benedito – CEP: 12.310-090",
+			"telefone": "3952-9997",
+			"email": "emefdellygaspar@yahoo.com.br",
+			"idadeMax": 14,
 			"lat": -23.294649,
 			"long": -45.944159
 		},
 		
 		{
-			"Nome": "EMEF PROF. HUGO DEL MONACO",
-			"End": "Rua Santa Terezinha, nº 1100 – Bela Vista – CEP: 12.309-010",
-			"Telefone": "3951-7787",
-			"Email": "emefbelavista@bol.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. HUGO DEL MONACO",
+			"end": "Rua Santa Terezinha, nº 1100 – Bela Vista – CEP: 12.309-010",
+			"telefone": "3951-7787",
+			"email": "emefbelavista@bol.com.br",
+			"idadeMax": 14,
 			"lat": -23.315046,
 			"long": -45.960521
 		},
 
 		{
-			"Nome": "EMEF PROF. JOAQUIM PASSOS E SILVA",
-			"End": "Rua Mogi das Cruzes, nº 441 – Cidade Salvador – CEP: 12.312-260",
-			"Telefone": "3952-6605",
-			"Email": "joaquimpassosesilva@yahoo.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. JOAQUIM PASSOS E SILVA",
+			"end": "Rua Mogi das Cruzes, nº 441 – Cidade Salvador – CEP: 12.312-260",
+			"telefone": "3952-6605",
+			"email": "joaquimpassosesilva@yahoo.com.br",
+			"idadeMax": 14,
 			"lat": -23.302638,
 			"long": -45.932831
 		},
 
 		{
-			"Nome": "EMEF PROF. JOSÉ EBOLI DE LIMA",
-			"End": "Rodovia General Euryale de Jesus Zerbini, nº 1023 – São Silvestre - CEP: 12340-010",
-			"Telefone": "3957-1222",
-			"Email": "joseebolidelima@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. JOSÉ EBOLI DE LIMA",
+			"end": "Rodovia General Euryale de Jesus Zerbini, nº 1023 – São Silvestre - CEP: 12340-010",
+			"telefone": "3957-1222",
+			"email": "joseebolidelima@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.605068,
 			"long": -46.494930
 		},
 
 		{
-			"Nome": "EMEF LAMARTINE DELAMARE",
-			"End": "Rua Capitão João José de Macedo, nº 90 – Centro – CEP: 12327-030",
-			"Telefone": "3952-8137/3951-0994",
-			"Email": "emef.lamartine@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF LAMARTINE DELAMARE",
+			"end": "Rua Capitão João José de Macedo, nº 90 – Centro – CEP: 12327-030",
+			"telefone": "3952-8137/3951-0994",
+			"email": "emef.lamartine@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.305277,
 			"long": -45.974195
 		},
 
 		{
-			"Nome": "EMEF PROFª MARIA LUIZA DE SOUZA PINTO VASQUES",
-			"End": "Estrada do Imperador, nº 150 – Rio Comprido – CEP: 12.305-470",
-			"Telefone": "3958-1527",
-			"Email": "emefmarialuizavasques@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª MARIA LUIZA DE SOUZA PINTO VASQUES",
+			"end": "Estrada do Imperador, nº 150 – Rio Comprido – CEP: 12.305-470",
+			"telefone": "3958-1527",
+			"email": "emefmarialuizavasques@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.261906,
 			"long": -45.926848
 		},
 
 		{
-			"Nome": "EMEF PROFª MARIA REGINA CACHUTÉ",
-			"End": "Av. Nilo David, nº 65 – Parque Imperial – CEP: 12329-037",
-			"Telefone": "3956-6087",
-			"Email": "emefparqueimperial@ig.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª MARIA REGINA CACHUTÉ",
+			"end": "Av. Nilo David, nº 65 – Parque Imperial – CEP: 12329-037",
+			"telefone": "3956-6087",
+			"email": "emefparqueimperial@ig.com.br",
+			"idadeMax": 14,
 			"lat": -23.319924,
 			"long": -46.014870
 		},
 
 		{
-			"Nome": "EMEF PROFª MARIA THEREZA GANASSALI DE OLIVEIRA",
-			"End": "Rua Finlândia, nº 425 – Jardim Colônia - CEP: 12.315-040",
-			"Telefone": "3953-6552",
-			"Email": "ganassalit@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª MARIA THEREZA GANASSALI DE OLIVEIRA",
+			"end": "Rua Finlândia, nº 425 – Jardim Colônia - CEP: 12.315-040",
+			"telefone": "3953-6552",
+			"email": "ganassalit@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.317856,
 			"long": -45.924616
 		},
 
 		{
-			"Nome": "EMEF PROFª NEUSA TEODORO DE AZEVEDO",
-			"End": "Rua Francisca Júlia, nº 158 – Vila Zezé",
-			"Telefone": "3953-6139",
-			"Email": "neusa.teodoro.azevedo@gmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª NEUSA TEODORO DE AZEVEDO",
+			"end": "Rua Francisca Júlia, nº 158 – Vila Zezé",
+			"telefone": "3953-6139",
+			"email": "neusa.teodoro.azevedo@gmail.com",
+			"idadeMax": 14,
 			"lat": -23.298525,
 			"long": -45.948324
 		},
 
 		{
-			"Nome": "EMEF PRESBÍTERO MÁBITO SHOJI/EMEI Ijal",
-			"End": "Rua Cecília Meireles, nº 10 – Veraneio Ijal – CEP: 12.326-825",
-			"Telefone": "3956-2135",
-			"Email": "presbiterombt@gmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PRESBÍTERO MÁBITO SHOJI/EMEI Ijal",
+			"end": "Rua Cecília Meireles, nº 10 – Veraneio Ijal – CEP: 12.326-825",
+			"telefone": "3956-2135",
+			"email": "presbiterombt@gmail.com",
+			"idadeMax": 14,
 			"lat": -23.313479,
 			"long": -46.036386
 		},
 
 		{
-			"Nome": "EMEF PROFª RICARDINA DOS SANTOS MORAES",
-			"End": "Rua Graça Aranha, nº 121 – Nova Esperança – CEP: 12324-370",
-			"Telefone": "3956-1414",
-			"Email": "emefricardina@gmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROFª RICARDINA DOS SANTOS MORAES",
+			"end": "Rua Graça Aranha, nº 121 – Nova Esperança – CEP: 12324-370",
+			"telefone": "3956-1414",
+			"email": "emefricardina@gmail.com",
+			"idadeMax": 14,
 			"lat": -23.313183,
 			"long": -46.009678
 		},
 
 		{
-			"Nome": "EMEF SANTA ROSA",
-			"End": "Rua São Sebastião, nº 25 – Centro – CEP: 12.308-320",
-			"Telefone": "3961-2740",
-			"Email": "emefsantarosa@bol.com.br",
-			"Idade Máxima": 14,
+			"nome": "EMEF SANTA ROSA",
+			"end": "Rua São Sebastião, nº 25 – Centro – CEP: 12.308-320",
+			"telefone": "3961-2740",
+			"email": "emefsantarosa@bol.com.br",
+			"idadeMax": 14,
 			"lat": -23.302935,
 			"long": -45.960145
 		},
 
 		{
-			"Nome": "EMEF PROF. SILVIO SILVEIRA MELLO FILHO",
-			"End": "Rua Danton Siqueira Malta, nº 380 – Jardim Santa Maria – CEP: 12.328-400",
-			"Telefone": "3951-5026",
-			"Email": "escolasilviosilveira@gmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF PROF. SILVIO SILVEIRA MELLO FILHO",
+			"end": "Rua Danton Siqueira Malta, nº 380 – Jardim Santa Maria – CEP: 12.328-400",
+			"telefone": "3951-5026",
+			"email": "escolasilviosilveira@gmail.com",
+			"idadeMax": 14,
 			"lat": -23.289491,
 			"long": -45.961626
 		},
 
 		{
-			"Nome": "EMEF “PROF. TITO MÁXIMO”",
-			"End": "Praça Luiz Sipullo Filho, nº 81 – Parque Santo Antonio – CEP: 12.308-390",
-			"Telefone": "3951-7859",
-			"Email": "emeftitomaximo@hotmail.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF “PROF. TITO MÁXIMO”",
+			"end": "Praça Luiz Sipullo Filho, nº 81 – Parque Santo Antonio – CEP: 12.308-390",
+			"telefone": "3951-7859",
+			"email": "emeftitomaximo@hotmail.com",
+			"idadeMax": 14,
 			"lat": -23.305913,
 			"long": -45.957029
 		},
 
 		{
-			"Nome": "EMEF VERANO CÂMARA",
-			"End": "Rodovia Nilo Máximo, nº 1613 – Jardim Pitoresco – CEP: 12.312-010",
-			"Telefone": "3953-6002",
-			"Email": "emefveranocamara@outlook.com",
-			"Idade Máxima": 14,
+			"nome": "EMEF VERANO CÂMARA",
+			"end": "Rodovia Nilo Máximo, nº 1613 – Jardim Pitoresco – CEP: 12.312-010",
+			"telefone": "3953-6002",
+			"email": "emefveranocamara@outlook.com",
+			"idadeMax": 14,
 			"lat": -23.309598,
 			"long": -45.941203
 		},
 
 		{
-			"Nome": "EMEF DÉCIO MOREIRA – VILA BRANCA",
-			"End": "Estrada Municipal do Limoeiro, nº 250, Jardim Dora, CEP 12.305.810",
-			"Idade Máxima": 14,
+			"nome": "EMEF DÉCIO MOREIRA – VILA BRANCA",
+			"end": "Estrada Municipal do Limoeiro, nº 250, Jardim Dora, CEP 12.305.810",
+			"idadeMax": 14,
 			"lat": -23.273966,
 			"long": -45.948838
 		}	
