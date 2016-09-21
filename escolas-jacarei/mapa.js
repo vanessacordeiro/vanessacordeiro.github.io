@@ -1,17 +1,18 @@
-$(document).ready(function(){
-			
-			
+function initialize() 
+{
 				
-				$.getJSON("https://api.myjson.com/bins/1ozje",function(data) {
+	$.getJSON("https://api.myjson.com/bins/1ozje",function(data) 
+	{
 					
 					var values = [];
 					
-					$.each(data, function(i){
+					$.each(data, function(i)
+					{
 						
 						values.push("<p>"+this.nome+"</p>");
 					});
 					
 					$("#data").append(values);
-					
-			});
-});
+	});		
+}
+initialize();
