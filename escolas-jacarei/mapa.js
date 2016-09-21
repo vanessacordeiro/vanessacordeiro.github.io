@@ -1,6 +1,5 @@
 $(document).ready(function(){
 			
-			$("#search").click(function() {
 			
 				
 				$.getJSON("https://api.myjson.com/bins/1ozje",function(data) {
@@ -15,5 +14,4 @@ $(document).ready(function(){
 					$("#data").append(values);
 					
 			});
-   });	
 });
