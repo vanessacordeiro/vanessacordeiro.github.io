@@ -1,5 +1,4 @@
-function initialize() 
-{
+$(document).ready(function(){
 				
 	$.getJSON("https://api.myjson.com/bins/5ab0m",function(data) 
 	{
@@ -14,5 +13,4 @@ function initialize()
 					
 					$("#data").append(values);
 	});		
-}
-initialize();
+});
